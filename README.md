@@ -27,5 +27,5 @@ This is a canvas fashion website built with React JS, React Router, Tailwind CSS
 
 ## Conclusion
 
-We hope you enjoy exploring our photography website! We're proud of the project and the technologies used to build it. If you have any questions or feedback, please don't hesitate to contact us. Thank you for visiting our website!
+We hope you enjoy exploring our canvas fashion website! We're proud of the project and the technologies used to build it. If you have any questions or feedback, please don't hesitate to contact us. Thank you for visiting our website!
 
